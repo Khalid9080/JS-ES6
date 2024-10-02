@@ -1,0 +1,15 @@
+
+
+Rest API (Appliication Programing Interface) Mathods -->
+
+    1. Get Mathod - API theke amra infomation recive kori.
+    2. POST Mathod - API te new resource add/create kori.
+    3. PATCH Mathod - Only existing resource ta update kore.
+    4. PUT Mathod - API te kno resorce thakle shetake update kori or na thaki add kori.
+    5. Delete Mathod - API theke resources delete kori.
+
+CRUD is the aconym for -->
+   - Create (POST)
+   - Read (GET)
+   - Update (PUT/PATCH)
+   - Delete (DELETE)
