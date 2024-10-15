@@ -1,0 +1,18 @@
+
+
+.input-field{
+
+ gap:0.5rem;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    display:flex;
+    flex-direction:column;
+    padding:1rem;
+    border:1px solid #ccc;
+    width: 500px;
+}
+
+.input{
+    padding:1rem
+}
